@@ -1,0 +1,24 @@
+{
+	"Information":{
+	"person1":{
+	"name":"Jeet",
+	"number":"8488093696",
+	"image":"https://drive.google.com/file/d/1z6DtgiywaWTHO72_qWD005MU16tATCyZ/view?usp=sharing"
+	},
+	"person2":{
+	"name":"Aditya",
+	"number":"6352624583",
+	"image":"https://drive.google.com/file/d/1yTgeg-3Yhxavp5yxWdRSwscxk9r_GqBY/view?usp=sharing"
+	},
+	"person3":{
+	"name":"Mirage Thakore",
+	"number":"9825720827",
+	"image":"https://drive.google.com/file/d/1CLB9HRrm3drmhR0K1JzeLY1p9bNe28PY/view?usp=sharing"
+	},
+	"person4":{
+	"name":"Zeel Kaklotar",
+	"number":"9989825440",
+	"image":"https://drive.google.com/file/d/1aMJjDKSnAHKaBqgcj0hnwUSm6qoNNNJU/view?usp=sharing"
+	}
+	}
+}
